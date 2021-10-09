@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319845168259",
+    "project_id": "fir-loginauthdemo-fcd92",
+    "storage_bucket": "fir-loginauthdemo-fcd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319845168259:android:bd8e71540589b9612d97b6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseloginauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319845168259-gjk6qpovdk12dbpgqj448gtuailpvpd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0UqqrRFjiTbjyMnTObySKrkIDOjHns8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319845168259-gjk6qpovdk12dbpgqj448gtuailpvpd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
